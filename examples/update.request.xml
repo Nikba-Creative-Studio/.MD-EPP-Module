@@ -1,0 +1,14 @@
+<command>
+  <update>
+    <domain:update xmlns:domain="urn:ietf:params:xml:ns:domain-1.0">
+      <domain:account>USER_NAME</domain:account>
+      <domain:account_pw>PASSWORD</domain:account_pw>
+      <domain:name>domain1.md</domain:name>
+      <domain:bil_email>hm@nic.md</domain:bil_email>
+      <domain:ns1_name>ns1.dns.md</domain:ns1_name>
+      <domain:ns2_name>ns2.dns.md</domain:ns2_name>
+      <domain:ns3_name>ns3.dns.md</domain:ns3_name>
+    </domain:update>
+  </update>
+  <clTRID>20230201150751</clTRID>
+</command>

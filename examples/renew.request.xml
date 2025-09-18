@@ -1,0 +1,10 @@
+<command>
+  <renew>
+    <domain:renew xmlns:domain="urn:ietf:params:xml:ns:domain-1.0">
+      <domain:account>USER_NAME</domain:account>
+      <domain:account_pw>PASSWORD</domain:account_pw>
+      <domain:name curexp="YYYY-MM-DD" years="2">domain1.md</domain:name>
+    </domain:renew>
+  </renew>
+  <clTRID>20230106081712</clTRID>
+</command>

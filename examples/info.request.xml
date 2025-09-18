@@ -1,0 +1,10 @@
+<command>
+  <info>
+    <domain:info xmlns:domain="urn:ietf:params:xml:ns:domain-1.0">
+      <domain:account>USER_NAME</domain:account>
+      <domain:account_pw>PASSWORD</domain:account_pw>
+      <domain:name>domain1.md</domain:name>
+    </domain:info>
+  </info>
+  <clTRID>20230201150755</clTRID>
+</command>

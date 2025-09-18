@@ -1,0 +1,20 @@
+<command>
+  <create>
+    <domain:create xmlns:domain="urn:ietf:params:xml:ns:domain-1.0">
+      <domain:account>USER_NAME</domain:account>
+      <domain:account_pw>PASSWORD</domain:account_pw>
+      <domain:name years="2">domain1.md</domain:name>
+      <domain:adm_orgname>MY SRL com</domain:adm_orgname>
+      <domain:adm_firstname>Frunza</domain:adm_firstname>
+      <domain:adm_lastname>Ion</domain:adm_lastname>
+      <domain:adm_email>hm@nic.md</domain:adm_email>
+      <domain:adm_type>organization</domain:adm_type>
+      <domain:adm_taxid>123456789764</domain:adm_taxid>
+      <domain:ns1_name>ns1.dns.md</domain:ns1_name>
+      <domain:ns1_ip>1.2.3.4</domain:ns1_ip>
+      <domain:ns2_name>ns2.dns.md</domain:ns2_name>
+      <domain:ns2_ip>1.2.3.4</domain:ns2_ip>
+    </domain:create>
+  </create>
+  <clTRID>20230201150751</clTRID>
+</command>
